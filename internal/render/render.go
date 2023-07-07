@@ -8,13 +8,10 @@ import (
 	"log"
 	"net/http"
 	"path/filepath"
-<<<<<<< HEAD
 
 	"github.com/eyasubirhanu/Yichalal_Hotel_Booking_app/internal/config"
 	"github.com/eyasubirhanu/Yichalal_Hotel_Booking_app/internal/models"
 	"github.com/justinas/nosurf"
-=======
->>>>>>> a38a518d9210ef8a3073fb79cf88ebe352d4e8d6
 )
 
 var functions = template.FuncMap{}
